@@ -29,7 +29,7 @@ This project is a **Streamlit-based Document Question-Answering (Q&A)** system p
 - Lists locally installed Ollama models
 - Lets you select one and query uploaded PDFs
 
-![Ollama Mode](images/local_ollama.png)
+![Ollama Mode](images/local_ollama_RAG.png)
 
 ---
 
