@@ -77,19 +77,8 @@ streamlit run app.py
 ├── images/
 │   ├── OpenAI_API_RAG.png
 │   └── local_ollama.png
-└── ...
+└── Sample Pdf File
 ```
-
----
-
-## 🖼 How to Add Screenshots
-
-1. Create a folder named `images/` in your project root.
-2. Save your screenshots in that folder.
-3. Reference them in the Markdown like this:
-   ```markdown
-   ![Screenshot](images/your_image.png)
-   ```
 
 ---
 
