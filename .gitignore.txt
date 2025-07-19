@@ -1,0 +1,13 @@
+# Ignore Pipenv environment and lock files
+Pipfile
+Pipfile.lock
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# VS Code
+.vscode/
+
+# Streamlit temp files
+.streamlit/

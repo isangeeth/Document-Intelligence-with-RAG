@@ -1,0 +1,20 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+streamlit = "*"
+pymupdf = "*"
+langchain = "*"
+langchain-community = "*"
+faiss-cpu = "*"
+openai = "*"
+sentence-transformers = "*"
+ollama = "*"
+tiktoken = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.7"
